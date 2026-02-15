@@ -987,7 +987,11 @@ MIT License – Free for commercial use. See [LICENSE](LICENSE) file.
 
 ### Need Help?
 
-**[📖 Documentation](https://github.com/yaswanthmerugumala/enterprise-rag-platform/wiki)** • **[🐛 Report Bug](https://github.com/yaswanthmerugumala/enterprise-rag-platform/issues)** • **[💡 Request Feature](https://github.com/yaswanthmerugumala/enterprise-rag-platform/discussions)**
+**📖 Documentation** • **🐛 Report Bug** • **💡 Request Feature**
+
+For questions, issues, or contributions, please open an issue in the project repository.
+
+---
 
 ### Questions?
 
