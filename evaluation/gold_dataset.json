@@ -1,0 +1,14 @@
+[
+  {
+    "query": "What encryption standard is required?",
+    "relevant_sources": ["Enterprise_Security_Policy.pdf"]
+  },
+  {
+    "query": "What are the KPIs of the AI strategy?",
+    "relevant_sources": ["AI_Strategy_Report.pdf"]
+  },
+  {
+    "query": "What cloud services are used?",
+    "relevant_sources": ["Cloud_Migration_Guide.pdf"]
+  }
+]

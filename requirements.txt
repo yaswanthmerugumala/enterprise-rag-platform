@@ -1,0 +1,52 @@
+# # Core API
+# fastapi
+# uvicorn
+
+# # Embeddings & Retrieval
+# sentence-transformers
+# faiss-cpu
+# numpy
+
+# # Sparse Retrieval
+# elasticsearch
+
+# # PDF Processing
+# pymupdf
+
+# # LLM (Ollama via HTTP)
+# requests
+
+# # Environment & Config
+# python-dotenv
+# pydantic
+
+# # Caching
+# cachetools
+
+# # Logging
+# loguru
+
+# # Metrics / Observability
+# prometheus-fastapi-instrumentator
+
+# # UI (if running Streamlit separately)
+# streamlit
+
+# # Evaluation / Benchmarking
+# tqdm
+
+
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy
+elasticsearch
+pymupdf
+requests
+python-dotenv
+pydantic
+cachetools
+loguru
+prometheus-fastapi-instrumentator
+tqdm
