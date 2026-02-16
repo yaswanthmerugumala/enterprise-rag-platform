@@ -975,9 +975,7 @@ flake8 app/ core/ ingestion/
 
 ---
 
-## 📄 License
 
-MIT License – Free for commercial use. See [LICENSE](LICENSE) file.
 
 ---
 
@@ -1001,11 +999,7 @@ Open an issue or discussion in the GitHub repository. We're here to help!
 
 ### 🙌 Special Thanks
 
-Built with ❤️ by the community, powered by:
-- **FastAPI** for excellent REST framework
-- **FAISS** for blazing-fast vector search
-- **Ollama** for accessible LLM inference
-- **Elasticsearch** for robust keyword search
+Built with ❤️ by the community
 
 ---
 
